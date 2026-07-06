@@ -1,9 +1,14 @@
-## Hi there 👋
+# Hoola 👋
 
 <!--
 **JuliaMMG/JuliaMMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+:computer: **Ingeniera forestal y espacialista en Sistemas de Información Geográfica**
+
+:pencil: Me apasionan los mapas, los ecosistemas y la geografía
+
+:eyeglasses: Lectora empedernida
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Vias de contacto
+
+![website](https://www.12tree.de/)
