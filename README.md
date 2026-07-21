@@ -20,7 +20,8 @@
 - ⚡ Fun fact: ...
 
 ### ⚡ Recent Activity
-<!--RECENT_ACTIVITY:start-->
+
+<!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:last_update--> 
 
 ## Vias de contacto
