@@ -19,6 +19,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
+
 ## Vias de contacto
 
 ![website](https://www.12tree.de/)
