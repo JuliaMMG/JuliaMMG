@@ -22,16 +22,16 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JuliaMMG/miCuartoRepo/pull/2) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
-2. 💪 Opened PR [#2](https://github.com/JuliaMMG/miCuartoRepo/pull/2) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
-3. 🔒 Closed issue [#1](https://github.com/JuliaMMG/miCuartoRepo/issues/1) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
-4. ❗ Opened issue [#1](https://github.com/JuliaMMG/miCuartoRepo/issues/1) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
-5. 🎉 Merged PR [#6](https://github.com/JuliaMMG/miPrimerRepo/pull/6) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
-6. 💪 Opened PR [#6](https://github.com/JuliaMMG/miPrimerRepo/pull/6) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
-7. 🎉 Merged PR [#5](https://github.com/JuliaMMG/miPrimerRepo/pull/5) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
-8. 🔒 Closed issue [#4](https://github.com/JuliaMMG/miPrimerRepo/issues/4) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
-9. 💪 Opened PR [#5](https://github.com/JuliaMMG/miPrimerRepo/pull/5) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
-10. ❗ Opened issue [#4](https://github.com/JuliaMMG/miPrimerRepo/issues/4) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
+1. 🎉 Merged PR [#3](https://github.com/JuliaMMG/miCuartoRepo/pull/3) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+2. 💪 Opened PR [#3](https://github.com/JuliaMMG/miCuartoRepo/pull/3) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+3. 🎉 Merged PR [#2](https://github.com/JuliaMMG/miCuartoRepo/pull/2) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+4. 💪 Opened PR [#2](https://github.com/JuliaMMG/miCuartoRepo/pull/2) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+5. 🔒 Closed issue [#1](https://github.com/JuliaMMG/miCuartoRepo/issues/1) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+6. ❗ Opened issue [#1](https://github.com/JuliaMMG/miCuartoRepo/issues/1) in [JuliaMMG/miCuartoRepo](https://github.com/JuliaMMG/miCuartoRepo)
+7. 🎉 Merged PR [#6](https://github.com/JuliaMMG/miPrimerRepo/pull/6) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
+8. 💪 Opened PR [#6](https://github.com/JuliaMMG/miPrimerRepo/pull/6) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
+9. 🎉 Merged PR [#5](https://github.com/JuliaMMG/miPrimerRepo/pull/5) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
+10. 🔒 Closed issue [#4](https://github.com/JuliaMMG/miPrimerRepo/issues/4) in [JuliaMMG/miPrimerRepo](https://github.com/JuliaMMG/miPrimerRepo)
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:last_update--> 
 
